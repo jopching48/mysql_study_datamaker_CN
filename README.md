@@ -1,0 +1,2 @@
+# mysql_study_datamaker_CN
+这是Python应用，为了学习Mysql创建的，中文数据随机生成器
